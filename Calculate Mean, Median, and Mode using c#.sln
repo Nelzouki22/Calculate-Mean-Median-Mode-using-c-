@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate Mean, Median, and Mode using c#", "Calculate Mean, Median, and Mode using c#.csproj", "{935AA653-C391-4D9D-A189-5450B51B858C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935AA653-C391-4D9D-A189-5450B51B858C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935AA653-C391-4D9D-A189-5450B51B858C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935AA653-C391-4D9D-A189-5450B51B858C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935AA653-C391-4D9D-A189-5450B51B858C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D271A1F6-91D6-4A2C-8DF7-3A947AED047C}
+	EndGlobalSection
+EndGlobal
